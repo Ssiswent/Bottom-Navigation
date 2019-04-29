@@ -6,4 +6,7 @@
     <color name="colorWhite">#FAFAFA</color>
     <color name="colorBlack">#000000</color>
 
+    <color name="colorDiff">#36b1bf</color>
+    <color name="colorDiff2">#f5a503</color>
+
 </resources>
